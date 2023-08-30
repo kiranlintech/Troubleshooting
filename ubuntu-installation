@@ -1,0 +1,10 @@
+Issue:   
+Failed to attach disk 'C:\Users\<User>\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu_79rhkp1fndgsc\LocalState\ext4.vhdx' to WSL2: The system cannot find the file specified.
+Error code: Wsl/Service/CreateInstance/MountVhd/ERROR_FILE_NOT_FOUND
+
+Fix: 
+List the distributions installed, by running following in PowerShell.  #:  wsl -l
+
+Unregister the distribution. Replace the "Ubuntu" below with your distribution name found in Step #:    wsl --unregister Ubuntu
+
+Launch the Ubuntu (or other distribution) which was installed using Microsoft Store
