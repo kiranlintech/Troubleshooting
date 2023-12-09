@@ -8,3 +8,6 @@ List the distributions installed, by running following in PowerShell.  #:  wsl -
 Unregister the distribution. Replace the "Ubuntu" below with your distribution name found in Step #:    wsl --unregister Ubuntu
 
 Launch the Ubuntu (or other distribution) which was installed using Microsoft Store
+==================================================================================================================================================================
+
+https://chat.openai.com/share/e8eee752-6f3c-4ee9-b6f1-fd75cd7a6f43
