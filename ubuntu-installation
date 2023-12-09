@@ -1,3 +1,7 @@
+Simple steps to install ubuntu on windows11 using microsoft store.
+
+https://chat.openai.com/share/e8eee752-6f3c-4ee9-b6f1-fd75cd7a6f43
+
 Issue:   
 Failed to attach disk 'C:\Users\<User>\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu_79rhkp1fndgsc\LocalState\ext4.vhdx' to WSL2: The system cannot find the file specified.
 Error code: Wsl/Service/CreateInstance/MountVhd/ERROR_FILE_NOT_FOUND
@@ -10,4 +14,4 @@ Unregister the distribution. Replace the "Ubuntu" below with your distribution n
 Launch the Ubuntu (or other distribution) which was installed using Microsoft Store
 ==================================================================================================================================================================
 
-https://chat.openai.com/share/e8eee752-6f3c-4ee9-b6f1-fd75cd7a6f43
+
